@@ -1,4 +1,3 @@
-![CYCC](https://user-images.githubusercontent.com/100062048/155756057-22964b84-89c2-4e61-8538-92f7d2e98d11.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
